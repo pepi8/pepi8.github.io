@@ -288,22 +288,6 @@ a:focus {
   text-align: center;
 }
 
-.service_section .img_box {
-  width: 110px;
-  height: 110px;
-  border-radius: 100%;
-  background-color: #18d3ff;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-}
-
 .service_section .img_box img {
   width: 45px;
 }
