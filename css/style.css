@@ -274,8 +274,9 @@ a:focus {
   color: #023b48;
 }
 
-.service_section .row .col-md-4 {
-  display: -webkit-box;
+{
+  .service_section .row .col-md-4
+  display: -webkit-box; 
   display: -ms-flexbox;
   display: flex;
   -webkit-box-orient: vertical;
