@@ -273,9 +273,18 @@ a:focus {
   background-color: transparent;
   color: #023b48;
 }
-
-{
-
+.service_section .row .col-md-4
+  display: -webkit-box; 
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  text-align: center;
 }
 
 .service_section .img_box {
@@ -294,19 +303,6 @@ a:focus {
           align-items: center;
   
 }
-.service_section .row .col-md-4
-  display: -webkit-box; 
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  text-align: center;
-
 
 .service_section .img_box img {
   width: 45px;
