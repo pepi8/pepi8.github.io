@@ -1,11 +1,11 @@
 body {
-  font-family:"times new roman bold"
-  color: #FF0000;
+ font-family: "Poppins", sans-serif;
+  color: #0c0c0c;
   background-color: #ffffff;
 }
 
-.layout_padding 
-  padding: 75px;
+.layout_padding {
+  padding: 75px 0;
 }
 
 .layout_padding2 {
