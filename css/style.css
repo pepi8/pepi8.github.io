@@ -5,7 +5,9 @@ body {
 }
 
 .layout_padding {
-  padding: 45px 0;
+  padding: 45px 0
+  font-family:"times new roman bold"
+  color:#eac318;
 }
 
 .layout_padding2 {
