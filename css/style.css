@@ -381,6 +381,7 @@ a:focus {
 
 .gallery-section .img_box.box-5 {
   width: 45%;
+ 
 }
 
 .buy_section {
@@ -389,6 +390,7 @@ a:focus {
 
 .buy_section p {
   margin: 45px 0;
+  width: 45px;
 }
 
 .buy_section a {
