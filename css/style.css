@@ -359,8 +359,8 @@ a:focus {
 }
 
 .gallery-section .img_box img {
-  width: 50%;
-  height: 50%;
+  width: 45%;
+  height: 45%;
 }
 
 .gallery-section .img_box.box-1 {
@@ -368,19 +368,19 @@ a:focus {
 }
 
 .gallery-section .img_box.box-2 {
-  width: 70%;
+  width: 45%;
 }
 
 .gallery-section .img_box.box-3 {
-  width: 32%;
+  width: 45%;
 }
 
 .gallery-section .img_box.box-4 {
-  width: 32%;
+  width: 45%;
 }
 
 .gallery-section .img_box.box-5 {
-  width: 32%;
+  width: 45%;
 }
 
 .buy_section {
