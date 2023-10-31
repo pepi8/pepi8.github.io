@@ -409,7 +409,7 @@ a:focus {
 }
 
 .client_section .client_container {
-  width: 90%;
+  width: 45%;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
