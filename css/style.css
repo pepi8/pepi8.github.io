@@ -422,16 +422,16 @@ a:focus {
 }
 
 .client_section .client_container .img_box {
-  width: 200px;
+  width: 45px;
   margin-left: -100px;
 }
 
 .client_section .client_container .img_box img {
-  min-width: 100%;
+  min-width: 45%;
 }
 
 .client_section .client_container .detail_box {
-  padding: 0 35px;
+  padding: 45px;
 }
 
 .client_section .carousel-indicators li {
